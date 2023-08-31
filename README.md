@@ -2,8 +2,8 @@
 BCC/UESPI: Bloco VII
 
 ## 🗒️ Descrição:
-- Dentro do arquivo coloque os dois vertices e cada linha simboliza uma aresta
-- 
+- Dentro do arquivo coloque os dois vertices
+- Cada linha simboliza uma aresta
 
 ## ▶️ Como usar
-Execute o código <strong>"main.py"</strong> e o programa irá gerar a matriz de adjacência correspondente ao grafo do arquivo <strong>".txt"</strong>
+Execute o código <strong>"main.py"</strong> e o programa irá gerar a matriz de adjacência correspondente ao grafo do arquivo <strong>"grafo.txt"</strong>
