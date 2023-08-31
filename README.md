@@ -2,7 +2,7 @@
 BCC/UESPI: Bloco VII
 
 ## 🗒️ Descrição:
-- Dentro do arquivo coloque os dois vertices
+- Dentro do arquivo em cada linha coloque os dois vertices
 - Cada linha simboliza uma aresta
 
 ## ▶️ Como usar
